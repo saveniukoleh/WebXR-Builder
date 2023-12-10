@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwebxr_builder"]=self["webpackChunkwebxr_builder"]||[]).push([[443],{2652:function(e,r,u){u.r(r),u.d(r,{default:function(){return p}});var a=u(3396);const n={class:"about"},t=(0,a._)("h1",null,"This is an about page",-1),i=(0,a._)("h2",null," Here I will post updates of popular WebXR libraries to measure their performance and usability ",-1),s=[t,i];function l(e,r){return(0,a.wg)(),(0,a.iD)("div",n,s)}var o=u(89);const b={},c=(0,o.Z)(b,[["render",l]]);var p=c}}]);
+//# sourceMappingURL=about.d70788b6.js.map
